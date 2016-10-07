@@ -1,0 +1,23 @@
+{
+  "name": "spotify-recommend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenyonBlue/spotify-recommend.git"
+  },
+  "author": "KenyonBlue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenyonBlue/spotify-recommend/issues"
+  },
+  "homepage": "https://github.com/KenyonBlue/spotify-recommend#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "unirest": "^0.5.1"
+  }
+}
